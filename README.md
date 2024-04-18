@@ -1,11 +1,18 @@
+# Hello World, I'm Luiz Fernando, be very welcome
 
-### Olá eu sou o Luiz Fernando, seja bem-vindo.
+<table>
+  <a href="https://github.com/leehxd">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luizddev&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizddev&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5">
+  <img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3">
+  <img src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="120" alt="JavaScript">
+  <img src="https://img.icons8.com/color/2x/bootstrap.png" width="120" alt="Bootstrap">
+</table>
 
-![Luiz GitHub stats](https://github-readme-stats.vercel.app/api?username=Luizddev&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luizddev&layout=compact)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luizfernandoaaa)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC1tyEPJPxjpONT5ymcx765A)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](www.instagram.com/luizsog/)
-[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)]()
+<div> 
+  <a href="https://www.youtube.com/channel/UC1tyEPJPxjpONT5ymcx765A" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/luizsog/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto: luizfcontato11@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/luizfernandoaa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
