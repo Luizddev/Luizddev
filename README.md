@@ -1,10 +1,11 @@
-# Hello World, I'm Luiz Fernando, be very welcome
+# Olá Mundo, sou Luiz Fernando, seja muito bem-vindo
+
+<img height="250em" src="header.png">
 
 <table>
   <a href="https://github.com/leehxd">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Luizddev&show_icons=true&theme=tokyonight"/>
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizddev&layout=compact&langs_count=6&theme=tokyonight"/>
-  <img src="https://img.icons8.com/color/2x/vue-js.png" width="120" alt="Vue.js">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png" width="120" alt="React Native">
   <img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5">
   <img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3">
