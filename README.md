@@ -1,6 +1,6 @@
 # Olá Mundo, sou Luiz Fernando, seja muito bem-vindo
 
-<img height="250em" align="right" src="header.png">
+<img height="250em" align="right" src="https://github.com/Luizddev/Luizddev/assets/150076390/10a79cc3-1819-4104-a128-cbbfb96443e8">
 
 <table>
   <a href="https://github.com/Luizddev">
