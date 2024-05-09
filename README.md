@@ -1,4 +1,4 @@
-<h1> Olá Mundo, sou <strong>Luiz Fernando</strong>, seja muito bem-vindo </h1>
+<h1>Hello World, I'm Luiz Fernando, welcome</h1>
 
 <img height="250em" align="right" src="https://github.com/Luizddev/Luizddev/assets/150076390/10a79cc3-1819-4104-a128-cbbfb96443e8">
 
@@ -12,7 +12,7 @@
     
 <hr>
 
-<h3 align="center">Tecnologias que utilizo diariamento </h3>
+<h3 align="center">Technologies I use daily</h3>
 
 <div align="center"> 
   <img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5">
@@ -25,7 +25,7 @@
 
 <hr>
 
-<h3 align="center">Contatos</h3>
+<h3 align="center">Contacts</h3>
 
 <br>
 
