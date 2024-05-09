@@ -1,4 +1,4 @@
-# Olá Mundo, sou Luiz Fernando, seja muito bem-vindo
+<h1> Olá Mundo, sou <strong>Luiz Fernando</strong>, seja muito bem-vindo </h1>
 
 <img height="250em" align="right" src="https://github.com/Luizddev/Luizddev/assets/150076390/10a79cc3-1819-4104-a128-cbbfb96443e8">
 
@@ -12,15 +12,22 @@
     
 <hr>
 
+<h3 align="center">Tecnologias que utilizo diariamento </h3>
+
 <div align="center"> 
   <img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5">
   <img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3">
   <img src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="120" alt="JavaScript">
   <img src="https://img.icons8.com/color/2x/bootstrap.png" width="120" alt="Bootstrap">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png" width="120" alt="React Native">
+  <img src="https://logodownload.org/wp-content/uploads/2019/10/python-logo.png" width="110" alt="PYTHON">
 </div>
 
 <hr>
+
+<h3 align="center">Contatos</h3>
+
+<br>
 
 <div align="center"> 
   <a href="https://www.youtube.com/channel/UC1tyEPJPxjpONT5ymcx765A" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
