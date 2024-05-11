@@ -12,7 +12,7 @@
     
 <hr>
 
-<h3 align="center">Technologies I use daily</h3>
+<h3 align="center">languages and tools I use</h3>
 
 <div align="center"> 
   <img src="https://skillicons.dev/icons?i=html,css,javascript,angular,java,python,vscode,github,"
