@@ -1,6 +1,6 @@
 <h1>Hello World, I'm Luiz Fernando, welcome</h1>
 
-<img height="250em" align="right" src="https://github.com/Luizddev/Luizddev/assets/150076390/10a79cc3-1819-4104-a128-cbbfb96443e8">
+<img height="350em" align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png">
 
 <table>
   <a href="https://github.com/Luizddev">
