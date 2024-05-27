@@ -15,7 +15,7 @@
 <h3 align="center">languages and tools I use</h3>
 
 <div align="center"> 
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,python"
+  <img src="https://skillicons.dev/icons?i=html,css,python"
 </div>
 
 <hr>
