@@ -10,6 +10,7 @@
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizddev&layout=compact&hide_border=true&title_color=395fa1&text_color=ffffff&bg_color=0d1117&hide=jupyter%20notebook" />
 </table>
     
+<hr>
 
 <h3 align="center">Studying in this moment</h3>
 
