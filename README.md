@@ -16,9 +16,9 @@ class Skills extends Desenvolvedor {
 ```
 <div align="center">
   <a href="https://github.com/Luizddev">
-    <img width="40%" 
-        src="https://github-readme-stats.vercel.app/api?username=Luizddev&show_icons=true&count_private=true&hide_border=true&title_color=&icon_color=395fa1&text_color=ffffff&bg_color=0d1117"/>
+    <img width="38%" 
+        src="https://github-readme-stats.vercel.app/api?username=luizddev&theme=dark"/>
     <img width="35%"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizddev&layout=compact&hide_border=true&title_color=395fa1&text_color=ffffff&bg_color=0d1117&hide=jupyter%20notebook"/>
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizddev&layout=compact&theme=dark"/>
   </a>
 </div>
